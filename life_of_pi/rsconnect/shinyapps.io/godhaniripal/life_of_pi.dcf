@@ -1,0 +1,12 @@
+name: life_of_pi
+title: life_of_pi
+username: godhaniripal
+account: godhaniripal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13597789
+bundleId: 9520725
+url: https://godhaniripal.shinyapps.io/life_of_pi/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
