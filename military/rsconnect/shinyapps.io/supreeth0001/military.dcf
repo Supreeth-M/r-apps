@@ -1,0 +1,12 @@
+name: military
+title: military
+username: supreeth0001
+account: supreeth0001
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649314
+bundleId: 9584238
+url: https://supreeth0001.shinyapps.io/military/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
