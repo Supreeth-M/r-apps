@@ -1,0 +1,12 @@
+name: sanjuup
+title: sanjuup
+username: histto
+account: histto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13584472
+bundleId: 9508786
+url: https://histto.shinyapps.io/sanjuup/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
