@@ -1,0 +1,12 @@
+name: mining
+title: mining
+username: godhaniripal
+account: godhaniripal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649321
+bundleId: 9584260
+url: https://godhaniripal.shinyapps.io/mining/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
