@@ -1,0 +1,12 @@
+name: pipipi
+title: pipipi
+username: godhaniripal
+account: godhaniripal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13596450
+bundleId: 9519286
+url: https://godhaniripal.shinyapps.io/pipipi/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
