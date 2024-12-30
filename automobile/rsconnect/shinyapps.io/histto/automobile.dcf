@@ -1,0 +1,12 @@
+name: automobile
+title: automobile
+username: histto
+account: histto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13593246
+bundleId: 9516628
+url: https://histto.shinyapps.io/automobile/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
